@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">CurrencyTrans</string>
+    <string name="settings">Настройки</string>
+    <string name="fon">Фоновая картинка</string>
+    <string-array name="spinner">
+        <item>AUD - Австралийский доллар</item>
+        <item>AZN - Азербайджанский манат</item>
+        <item>GBP - Фунт стерлингов</item>
+        <item>AMD - Армянских драмов</item>
+        <item>BYN - Белорусский рубль</item>
+        <item>BGN - Болгарский лев</item>
+        <item>BRL - Бразильский реал</item>
+        <item>HUF - Венгерских форинтов</item>
+        <item>HKD - Гонконгских долларов</item>
+        <item>DKK - Датская крона</item>
+        <item>USD - Доллар США</item>
+        <item>EUR - Евро</item>
+        <item>INR - Индийских рупий</item>
+        <item>KZT - Казахстанских тенге</item>
+        <item>CAD - Канадский доллар</item>
+        <item>KGS - Киргизских сомов</item>
+        <item>CNY - Китайский юань</item>
+        <item>MDL - Молдавских леев</item>
+        <item>NOK - Норвежских крон</item>
+        <item>PLN - Польский злотый</item>
+        <item>RON - Румынский лей</item>
+        <item>XDR - СДР</item>
+        <item>SGD - Сингапурский доллар</item>
+        <item>TJS - Таджикских сомони</item>
+        <item>TRY - Турецких лир</item>
+        <item>TMT - Новый туркменский манат</item>
+        <item>UZS - Узбекских сумов</item>
+        <item>UAH - Украинских гривен</item>
+        <item>CZK - Чешских крон</item>
+        <item>SEK - Шведских крон</item>
+        <item>CHF - Швейцарский франк</item>
+        <item>ZAR - Южноафриканских рэндов</item>
+        <item>KRW - Вон Р. Корея</item>
+        <item>JPY - Японских иен</item>
+    </string-array>
+
+    <string-array name="spinners">
+        <item>AUD - Австралийский доллар</item>
+        <item>AZN - Азербайджанский манат</item>
+        <item>GBP - Фунт стерлингов</item>
+        <item>AMD - Армянских драмов</item>
+        <item>BYN - Белорусский рубль</item>
+        <item>BGN - Болгарский лев</item>
+        <item>BRL - Бразильский реал</item>
+        <item>HUF - Венгерских форинтов</item>
+        <item>HKD - Гонконгских долларов</item>
+        <item>DKK - Датская крона</item>
+        <item>USD - Доллар США</item>
+        <item>EUR - Евро</item>
+        <item>INR - Индийских рупий</item>
+        <item>KZT - Казахстанских тенге</item>
+        <item>CAD - Канадский доллар</item>
+        <item>KGS - Киргизских сомов</item>
+        <item>CNY - Китайский юань</item>
+        <item>MDL - Молдавских леев</item>
+        <item>NOK - Норвежских крон</item>
+        <item>PLN - Польский злотый</item>
+        <item>RON - Румынский лей</item>
+        <item>XDR - СДР</item>
+        <item>SGD - Сингапурский доллар</item>
+        <item>TJS - Таджикских сомони</item>
+        <item>TRY - Турецких лир</item>
+        <item>TMT - Новый туркменский манат</item>
+        <item>UZS - Узбекских сумов</item>
+        <item>UAH - Украинских гривен</item>
+        <item>CZK - Чешских крон</item>
+        <item>SEK - Шведских крон</item>
+        <item>CHF - Швейцарский франк</item>
+        <item>ZAR - Южноафриканских рэндов</item>
+        <item>KRW - Вон Р. Корея</item>
+        <item>JPY - Японских иен</item>
+        <item>RUB - Российские рубли</item>
+    </string-array>
+</resources>
